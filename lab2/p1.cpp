@@ -1,6 +1,10 @@
 #include <iostream>
 #include <string.h>
 
+/*Sa se creeze o lista liniara simplu inlantuita cu nodurile formate din elemente de tip: numele studentului (string) si o nota (nr. real).
+Sa se afiseze elementele listei.
+Sa se afiseze elementele listei in ordine crescatoare a notelor.*/
+
 using namespace std;
 
 struct node{
